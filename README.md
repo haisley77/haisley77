@@ -1,24 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FDCBE5&height=300&section=header&text=Hi%20there!&fontSize=90)
 
 
-#### 안녕하세요. 서비스 개선점을 지속적으로 고민하는 FULL-STACK 개발자, 이하은입니다.
+#### 안녕하세요. 서비스 개선점을 지속적으로 고민하는 FULL-STACK 개발자 이하은입니다.
 
-#### 저는 개발자로서 
-#### 1. 사용자 경험(UX)을 최우선 가치로 두고 있습니다.
-#### 2. 사용자 피드백을 통해 코드를 개선하는 것을 좋아합니다.
-#### 3. 유지보수가 용이한 코드를 작성하는 것을 지향합니다.
-#### 4. 다양한 기술을 폭넓게 경험하는 것을 의미있게 생각합니다.
-#### 5. 마지막으로, 매 순간이  미래에 반드시 쓸모 있는 경험이 될 것이라고 믿습니다.
-
-
-#### Hello, I'm Haisley, a FULL-STACK developer dedicated to constantly improving services.
-
-#### As a developer:
-#### 1. prioritize user experience (UX) above all else.
-#### 2. enjoy gathering user feedback and addressing issues through code.
-#### 3. strive to write code that is easy to maintain.
-#### 4. find it meaningful to explore a wide range of software skills.
-#### 5. believe that every experience contributes to my future growth and expertise.
+1. 서비스 개발자로서, 최상의 사용자 경험(UX)을 목표로 합니다.<br>
+2. 유지보수가 용이한 코드를 중요하게 생각해, 코드 리팩터링에 관심이 있습니다.<br>
+3. CS 학습을 통해, 새로운 기술을 빠르게 받아들이고 적용할 수 있는 역량을 갖추고 있습니다.<br>
+4. 문제 원인 분석과 작업 효율을 중시하여, 프로젝트 진행 시 트러블슈팅 문서화에 힘쓰고 있습니다.<br>
+5. 매순간이 미래에 반드시 유의미한 경험이 될 것이라고 믿습니다.<br>
 
 
 <h3>📍 Github Stats</h3>
