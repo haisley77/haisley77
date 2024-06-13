@@ -7,7 +7,10 @@
 2. 유지보수가 용이한 코드를 중요하게 생각해, 코드 리팩터링에 관심이 있습니다.<br>
 3. CS 학습을 통해, 새로운 기술을 빠르게 받아들이고 적용할 수 있는 역량을 갖추고 있습니다.<br>
 4. 문제 원인 분석과 작업 효율을 중시하여, 프로젝트 진행 시 트러블슈팅 문서화에 힘쓰고 있습니다.<br>
-5. 매순간이 미래에 반드시 유의미한 경험이 될 것이라고 믿습니다.<br>
+
+<h3>📍 Recent activity</h3>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=haisley77)](https://velog.io/@haisley77)
 
 
 <h3>📍 Github Stats</h3>
