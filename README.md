@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FDCBE5&height=300&section=header&text=Hi%20there!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FDCBE5&height=250&section=header&text=Hi%20there!&fontSize=80)
 
 
 #### 안녕하세요. 서비스 개선점을 지속적으로 고민하는 FULL-STACK 개발자 이하은입니다.
@@ -42,7 +42,7 @@
   <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white">
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white">
-  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<!--   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> -->
 </p>
 
 
