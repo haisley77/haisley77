@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FDCBE5&height=250&section=header&text=Hi%20there!&fontSize=80)
 
 
-#### 안녕하세요. '기본'을 중시하는 신입 백엔드 개발자 이하은입니다.
+#### 안녕하세요. '기본'을 중시하는 신입 개발자 이하은입니다.
 
 1. 최상의 사용자 경험(UX)을 목표로 하고 있습니다.<br>
 2. 유지보수가 용이한 코드를 중요하게 생각해, 코드 리팩터링에 관심이 있습니다.<br>
