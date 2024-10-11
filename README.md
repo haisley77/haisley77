@@ -56,15 +56,6 @@
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
-<h4>Ide</h4>
-<p>
-  <img alt="intellijidea" src="https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white">
-  <img alt="webstorm" src="https://img.shields.io/badge/webstorm-000000.svg?&style=for-the-badge&logo=webstorm&logoColor=white">
-  <img alt="pycharm" src="https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white">
-  <img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
-</p>
-
 <h4>Tool</h4>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white">
