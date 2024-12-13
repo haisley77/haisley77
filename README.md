@@ -11,8 +11,8 @@
 <h3>📍 Interest</h3>
 
 1. Object-Oriented Programming (OOP)<br>
-2. cloud Computing<br>
-3. software architecture<br>
+2. Cloud Computing<br>
+3. Software Architecture<br>
 
 <h3>📍 Recent activity</h3>
 
