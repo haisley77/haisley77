@@ -8,6 +8,12 @@
 4. 발생 가능한 여러 상황을 생각하고, 신중하게 코드를 작성합니다.<br>
 5. 기본을 중시하여 꾸준히 CS를 학습합니다.<br>
 
+<h3>📍 Interest</h3>
+
+1. Object-Oriented Programming (OOP)<br>
+2. cloud Computing<br>
+3. software architecture<br>
+
 <h3>📍 Recent activity</h3>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=haisley77)](https://velog.io/@haisley77)
