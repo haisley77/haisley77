@@ -2,15 +2,15 @@
 
 <h3>📍 Backend Developer</h3>
 
-1. 최상의 사용자 경험을 목표로 개발합니다.<br>
-2. 서비스 제공 흐름에 있어 각 단계의 구조를 중요하게 생각하며, 코드의 지속가능성을 고려합니다.<br>
+1. 사용자 경험 개선을 생각합니다.<br>
+2. 코드의 재사용성과 유지보수성을 고려합니다.<br>
 3. 체계적인 문서화로 팀 차원의 효율적인 업무 방식을 고민합니다.
-4. 발생 가능한 여러 상황을 생각하고, 신중하게 코드를 작성합니다.<br>
+4. 발생 가능한 여러 상황을 생각하며 신중하게 코드를 작성합니다.<br>
 5. 기본을 중시하여 꾸준히 CS를 학습합니다.<br>
 
 <h3>📍 Interest</h3>
 
-1. Object-Oriented Programming (OOP)<br>
+1. Object-Oriented Programming<br>
 2. Cloud Computing<br>
 3. Software Architecture<br>
 
@@ -21,8 +21,8 @@
 
 <h3>📍 Github Stats</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haisley77&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haisley77&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haisley77&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haisley77&layout=compact">
 </p>
 
 <h3>📍 Algorithm</h3>
